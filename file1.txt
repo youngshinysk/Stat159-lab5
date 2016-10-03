@@ -3,5 +3,9 @@ making changes to file1.txt
 
 task4A-2
 
+<<<<<<< HEAD
 task5A change
 
+=======
+Task 5B: change (Gary)
+>>>>>>> a6f80245a8f9251da36697565b5dac673f20f1bc

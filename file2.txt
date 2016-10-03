@@ -1,3 +1,7 @@
 modified file2.txt
 
 THere was a conflict since when User B modified file2.txt, he did not use the one that User A previously modified. In order to resolve the conflict, User B had to modified the file first, add and commit the changes, and then either push( overwriting the file ) or pull (getting user A's modifications in the file)
+
+_ task4B: User B (Gary) modified file2.txt
+
+_task4B (2):
