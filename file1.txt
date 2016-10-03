@@ -1,3 +1,9 @@
 making changes to file1.txt
 
+<<<<<<< HEAD
 task4A
+=======
+task3B: User B (Gary) 's modification
+
+Another change
+>>>>>>> 2b8089bd17151671a21d689f2854244f29aaf42d
