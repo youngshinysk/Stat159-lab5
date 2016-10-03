@@ -1,1 +1,3 @@
 making changes to file1.txt
+
+task3B: User B (Gary) 's modification
