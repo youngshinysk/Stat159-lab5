@@ -1,0 +1,37 @@
+Task1 answer:
+
+Draw what is happening here ?
+
+* User A created the repository in Github, and that became the 'master' branch.
+
+* A added B as a collaborator so that B can also get access to the repository 
+
+* B then cloned the repository in his bash
+
+* B added a new file in his bash and pushed the changes to the repository using 'git'
+
+* A got the changes using 'git' 
+
+Task2 answer:
+
+There was a conflict since when User B modified file2.txt, he did not use the one that User A previously modified. 
+In order to resolve the conflict, User B had to modified the file first, add and commit the changes, 
+and then either push( overwriting the file ) or pull (getting user A's modifications in the file)
+
+Task3 answer: 
+
+We have created a branch which copied all the files in master.
+When we modify the file in the branch and merge the branch with master, 
+the changes are applied to the same files in master.  
+
+Task4 answer: 
+
+Here, we are doing what we did in Task3 but doing it with two people.
+User A works on file1.txt in the branch and User B works on file2.txt in another branch
+separately and then apply these changes to the master in the end. There's no 
+conflict, because we are working on different files in different branches.
+
+Task5 answer:  
+
+Here, we are doing what we did in Task 4, but the two users are working on the same file.
+Because we are working on the same file at the same time, there is a merge conflict.
