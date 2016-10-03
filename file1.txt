@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 making changes to file1.txt
 
 task4A-2
+=======
+task4A
+>>>>>>> 2b8fb7dd49ed073112ffd32ae2d1ab4380d02638
