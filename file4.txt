@@ -1,0 +1,11 @@
+Draw what is happening here ?
+
+* User A created the repository in Github, and that became the 'master' branch.
+
+* A added B as a collaborator so that B can also get access to the repository 
+
+* B then cloned the repository in his bash
+
+* B added a new file in his bash and pushed the changes to the repository using 'git'
+
+* A got the changes using 'git' 
